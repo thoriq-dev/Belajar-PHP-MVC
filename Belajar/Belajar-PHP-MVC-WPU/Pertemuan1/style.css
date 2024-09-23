@@ -1,0 +1,43 @@
+body {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-indent: 3px;
+  font-size: smaller;
+}
+
+ul,
+li {
+  font-size: smaller;
+}
+
+img {
+  width: 500px;
+  height: 300px;
+  display: block;
+  padding: 0px 300px;
+}
+
+table {
+  border: 5px solid black;
+  /* s */
+}
+
+tr {
+  border: 5px solid black;
+}
+
+th {
+  /* border: 5px solid black; */
+  padding: 5px;
+}
+
+td {
+  text-align: center;
+  padding: 0px 45px;
+}
